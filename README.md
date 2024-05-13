@@ -1,3 +1,9 @@
 # alura-do-gato-preto
 Bem vindo :D
-![https://64.media.tumblr.com/bcf6aab2e341dcf20730dd816ed5d441/627713c943487139-0a/s400x600/4402cbcabe85ed6ec93839e008f83320d9469743.gifv](link)
+
+
+
+
+
+
+![tumblr_be32472c381e1af86273eb106435d7ea_e62b0890_540](https://github.com/Murillo-R-S/alura-do-gato-preto/assets/167333360/3b04ea10-bed3-41c8-bd58-3e35aa98d2ec)
