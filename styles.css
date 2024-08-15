@@ -1,0 +1,46 @@
+body {
+    color: rgb(30, 53, 38);
+    background: burlywood;
+    margin: 0px;
+    font-family: "Jersey 20", sans-serif;
+}
+
+header {
+    border: solid 5px;
+    padding: 20px;
+    font-size: 32px;
+    color: darkgoldenrod;
+}
+
+section {
+    background: rgb(rgba(161, 103, 17, 0.863), green, blue);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+.chamada-texto {
+    margin-right: 5%;
+}
+
+h1 {
+    font-size: 30px;
+}
+
+p {
+    font-size: 30px;
+}
+
+b {
+    font-size: 30px;
+}
+
+img {
+    height: 200px;
+}
+
+.categoria-videos {
+    display: flex;
+
+}
